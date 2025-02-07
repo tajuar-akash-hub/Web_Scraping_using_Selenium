@@ -1,6 +1,6 @@
 ### Documentation for the Streamlit Dashboard Code
 
-This Python code is for a **Streamlit Dashboard** that allows the user to search for a specific term on Google and display the search result URLs in a table format. The program uses **Selenium** (with **Undetected ChromeDriver**) to automate the Google search, collect links from the search results, and display them using **Streamlit**. Here is a step-by-step explanation of how the code works:
+ **Streamlit Dashboard**  allows the user to search for a specific term on Google and display the search result URLs in a table format. The program uses **Selenium** (with **Undetected ChromeDriver**) to automate the Google search, collect links from the search results, and display them using **Streamlit**. Here is a step-by-step explanation of how the code works:
 
 ---
 
